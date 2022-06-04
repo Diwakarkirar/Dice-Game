@@ -1,0 +1,41 @@
+.container{
+    text-align:center;
+    width:70%;
+    margin:auto;
+}
+.dice{
+    text-align: center;
+    display:inline-block;
+    
+}
+img{
+    width:80%;
+}
+body{
+    background-color: #393E46;
+}
+h1{
+    text-align:center;
+    font-family:'Lobster',cursive;
+    color:darkred;
+    font-size:5rem;
+}
+    
+h2{
+    text-align:center;
+    font-family:cursive;
+    color:darkgreen;
+    font-size:2rem;
+}
+h3{
+    visibility: hidden;
+    text-align:center;
+    font-family:cursive;
+    color:darkgreen;
+    font-size:1rem;
+}
+p{
+    font-style: italic;
+    color:darkgreen;
+    font-size:2rem;
+}
